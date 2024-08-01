@@ -1,4 +1,4 @@
-class Assccii1
+class Assccii11298
 {
  public static void main(String args[])
  {
@@ -12,4 +12,5 @@ class Assccii1
   else
     	System.out.println("Sysmbol");
  }
+ System.out.println("hello");
 }
